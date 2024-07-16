@@ -1,0 +1,14 @@
+.DS_Store
+applet
+application.linux-arm64
+application.linux-armv6hf
+application.linux32
+application.linux64
+application.windows32
+application.windows64
+application.macosx
+out
+Export/
+whirpool_spirals/*.pdf
+whirpool_spirals/*.dxf
+Dithering1052947855069479813.autosave
