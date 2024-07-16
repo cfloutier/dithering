@@ -9,6 +9,4 @@ application.windows64
 application.macosx
 out
 Export/
-whirpool_spirals/*.pdf
-whirpool_spirals/*.dxf
-Dithering1052947855069479813.autosave
+*.autosave
